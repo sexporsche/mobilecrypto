@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\astudio\\CryptoTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_project_profile.xml",
+        "source": "D:\\astudio\\CryptoTracker\\app\\src\\main\\res\\layout\\activity_project_profile.xml"
+    },
+    {
+        "merged": "D:\\astudio\\CryptoTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list.xml",
+        "source": "D:\\astudio\\CryptoTracker\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "D:\\astudio\\CryptoTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorites.xml",
+        "source": "D:\\astudio\\CryptoTracker\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "D:\\astudio\\CryptoTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings.xml",
+        "source": "D:\\astudio\\CryptoTracker\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    }
+]

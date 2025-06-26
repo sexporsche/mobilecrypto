@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CryptoManiya</string>
+    <string name="hello_blank_fragment">Привет, пустой фрагмент</string>
+
+    <string name="all_coins">Все монеты</string>
+    <string name="favourites">Избранное</string>
+    <string name="settings">Настройки</string>
+    <string name="dark_mode">Темный режим</string>
+    <string name="coins_list_error">Не удалось загрузить список монет. Пожалуйста, попробуйте ещё раз.</string>
+
+    <string name="no_favourites">У вас пока нет избранных монет</string>
+    <string name="added_to_favourite">%1$s добавлен в избранное</string>
+    <string name="removed_to_favourite">%1$s удалён из избранного</string>
+
+    <string name="historical_data_error">Не удалось загрузить исторические данные. Пожалуйста, попробуйте ещё раз</string>
+    <string name="line_chart_title">График цены за %1$s дней\n(ось X: Дата, ось Y: Цена в $)</string>
+</resources>
